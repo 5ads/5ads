@@ -7,7 +7,7 @@
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Test Project</name>
+  <name>Test Project 001</name>
   <url>http://www.google.com</url>
 
   <properties>
